@@ -581,7 +581,7 @@ li {
 }
 
 .welcome .overlay {
-    background: rgba(12,12,12,0.65);
+    background-image: url('../images/welcome.jpg');
     height: 100%;
     left: 0;
     top: 0;
@@ -674,7 +674,8 @@ li {
 }
 
 .facts .overlay {
-    background: rgba(12,12,12,0.85);
+    background-image: url('../images/facts.jpg');
+    background-size: cover;
     height: 100%;
     left: 0;
     top: 0;
